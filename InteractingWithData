@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Interacting-With-Data</title>
+    </head>
+    <body>
+    	<h2 style = "color:blue"> Let's put it in an iframe!</h2>
+        <iframe src = "Leave_Fig.html" title = "Bubble plot" width = "1000px"
+        height="600px" frameBorder = "0"> </iframe>
+    	<h2>Let's embed the scatterplot!</h2>
+    </body>
+
+
+</html>
