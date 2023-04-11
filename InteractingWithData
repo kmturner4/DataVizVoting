@@ -4,11 +4,15 @@
         <title>Interacting-With-Data</title>
     </head>
     <body>
-    	<h2 style = "color:blue"> Let's put it in an iframe!</h2>
-        <iframe src = "Leave_Fig.html" title = "Bubble plot" width = "1000px"
+    	<h2>Here is my Parallel Categories Plot: </h2> 
+        <iframe src = "categrories.html"  width = "1000px"
+        height="600px" frameBorder = "0"> </iframe><br>
+        <h2>Here is my Bubble Chart: </h2> 
+        <iframe src = "bubble.html"  width = "1000px"
         height="600px" frameBorder = "0"> </iframe>
-    	<h2>Let's embed the scatterplot!</h2>
+        <h2>Here is my Choropleth Map </h2> 
+        <iframe src = "map.html"  width = "1000px"
+        height="600px" frameBorder = "0"> </iframe>
     </body>
-
 
 </html>
