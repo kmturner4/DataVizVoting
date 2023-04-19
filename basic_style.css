@@ -21,29 +21,14 @@ p {
 h2 { 
 	font: bold 2em georgia, sans-serif;
 	letter-spacing: 0.1em; 
+	border-bottom:1px solid #CCC;
+    padding-bottom:3px;
 }
 
 h3 { 
 	font: bold normal 1.4em georgia, sans-serif;
 	letter-spacing: 0.1em; 
 	margin-bottom: 1em;
-	}
-	
-a:link { 
-	font-weight: bold; 
-	text-decoration: none; 
-	color: #B7A5DF;
-	}
-	
-a:visited { 
-	font-weight: bold; 
-	text-decoration: none; 
-	color: #D4CDDC;
-	}
-	
-a:hover, a:focus, a:active { 
-	text-decoration: underline; 
-	color: #9685BA;
 	}
 	
 figure {
@@ -94,6 +79,3 @@ footer a:link, footer a:visited {
   clear: both;
   display: table;
 } 
-
-  
-
