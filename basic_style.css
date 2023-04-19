@@ -7,8 +7,7 @@ html {
 	
 body { 
 	font: 100% georgia, sans-serif;
-	line-height: 1.8em;
-	color: #555753; 
+	line-height: 1.8em; 
 	margin-left: 10%; 
   	margin-right: 10%;
   	height: 100%;
@@ -51,7 +50,7 @@ figure {
   border-top: none;
   padding-top: 0;
   float: left;
-  width: 50%
+  width: 60%
   }
 
 footer { 
