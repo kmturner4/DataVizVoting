@@ -21,7 +21,7 @@ p {
 h2 { 
 	font: bold 2em georgia, sans-serif;
 	letter-spacing: 0.1em; 
-	border-bottom:1px solid rgb(143, 142, 142);
+	border-bottom:2px solid rgb(143, 142, 142);
     padding-bottom:3px;
 }
 
